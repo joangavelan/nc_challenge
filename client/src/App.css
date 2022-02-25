@@ -1,0 +1,29 @@
+.App {
+  padding: 2rem;
+}
+
+.Form {
+  width: 20rem;
+  display: grid;
+  grid-gap: 7px;
+}
+
+.Form input {
+  padding: 7px;
+  font-size: 15px;
+}
+
+.Form button {
+  font-size: 15px;
+  cursor: pointer;
+  padding: 5px;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 7px 14px;
+}
